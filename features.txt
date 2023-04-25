@@ -1,0 +1,15 @@
+Feature This is GitSession
+ Senrio  Enter gitSession
+When Open the git platform
+Then Go to folder
+And Create Branch
+Then create file
+Again put data
+Then Put on statge
+And commeit msg
+then check status
+Again Go to the main branch
+Then log in one line
+Then push main
+
+ 
